@@ -1,0 +1,90 @@
+body{
+	background-image: url(tegla2.jpg);
+}
+.divnagy{
+	color: #DED2C7 ;
+	margin-left: auto ;
+	margin-right: auto;
+	border: 2px;  
+	border-style: solid; 
+	display: block;
+	
+
+}
+a{
+	color:black;
+	background-color: #DED2C7 ;
+	border:2px;
+	border-color:#DED2C7; 
+	border-style: solid; 
+	font-family:"Times New Roman",cursive;
+	font-size: 20;
+}
+
+.h1port{
+	color: black;
+	font-family:"Times New Roman",cursive;
+	font-size: 20;
+	border:2px;
+	border-color:#DED2C7; 
+	border-style: solid; 
+	background-color: #DED2C7;
+	
+
+
+	
+}
+.h1nev{
+	color: #C0C0C0; 
+	margin-left: 71%;
+	font-family:"Times New Roman",cursive;
+	font-size: 20;
+	border:2px;
+	border-color:#DED2C7; 
+	border-style: solid; 
+	background-color: #DED2C7;
+
+
+}
+.divport{
+	color: black;
+	width: 90%;
+	margin-left: 5%
+
+}
+
+p{
+	color: black;
+	background-color: #C0C0C0; 
+	text-align: center;
+	border: 2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	font-family: "Times New Roman",cursive;
+	font-size: 20;
+}
+.divkepnagy{
+	color: #DED2C7; 
+	background-color: #DED2C7; 
+	width: 45%;  
+	margin-left:auto;
+	margin-right:auto;
+	border-color: #DED2C7;
+	border: 2px;
+	border-style: solid; 
+}
+
+.b{
+	color: black;
+	font-family:"Times New Roman",cursive;
+	border:2px;
+	border-color:#DED2C7; 
+	border-style: solid; 
+	background-color: #DED2C7;
+	font-size: 10;
+}
+
+img{
+	margin-left: 33%
+	
+}
